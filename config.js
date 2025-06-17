@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tra ne=))",
+    titleWeb: "Trà siêu cấp đẹp trai vũ trụ=))",
     introTitle: 'Hi Ngân xinh gái :3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
